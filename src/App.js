@@ -1,6 +1,6 @@
 
 import styles  from './index.module.css'
-
+import './App.css'
 
 function App() {
   return (

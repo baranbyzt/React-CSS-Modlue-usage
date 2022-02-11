@@ -7,7 +7,7 @@ import Page2 from './Page2'
 
 ReactDOM.render(
   <React.StrictMode>
-   <App/>
+   <Page2/>
   </React.StrictMode>,
   document.getElementById('root')
 );
